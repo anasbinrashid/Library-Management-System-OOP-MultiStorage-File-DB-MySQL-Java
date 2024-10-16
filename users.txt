@@ -1,0 +1,5 @@
+1,Anas,Islamabad,anas@nu.edu.pk,03000000000,358.0,true,0
+2,Babar,Lahore,babar@nu.edu.pk,03111111111,0.0,false,0
+3,Shadab,Rawalpindi,shadab@nu.edu.pk,03222222222,0.0,false,0
+4,Majid,Karachi,majid@nu.edu.pk,03333333333,0.0,false,0
+5,Nawaz,Lahore,nawaz@nu.edu.pk,03444444444,0.0,false,0

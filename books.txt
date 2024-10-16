@@ -1,0 +1,5 @@
+1,Great Expectations,Charles Dickens,ISBN1234,1970,Novel,150.0,false
+2,Physics,Isaac Newton,ISBN2345,1880,Education,300.0,false
+3,Glossary,William Shakespeare,ISBN6789,1600,Reference,250.0,false
+4,Numerical Computing,D. Mitsotakis,ISBN7788,2020,Mathematics,300.0,false
+5,Blinding Lights,The Weeknd,ISBN6666,2021,Music,500.0,false
